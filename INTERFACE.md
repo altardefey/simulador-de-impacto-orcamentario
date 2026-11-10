@@ -21,7 +21,7 @@ A interface roda **dentro do Google Colab**, no mesmo notebook do backend, sem s
 
 | Biblioteca           | Uso                                                                            |
 | -------------------- | ------------------------------------------------------------------------------ |
-| `ipywidgets`         | Sliders, menus, botões e abas                                                  |
+| `ipywidgets`         | Sliders, menus, botões e abas;                                                  |
 | `plotly`             | Gráficos (versão 5.5 ou superior, por causa do rótulo dentro do mapa de calor) |
 | `pandas` / `numpy`   | Manipulação da tabela histórica                                                |
 | HTML e CSS embutidos | Cabeçalho, cartões de resultado e tabelas                                      |
