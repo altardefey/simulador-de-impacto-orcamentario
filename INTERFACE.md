@@ -1,6 +1,6 @@
 # Interface do Simulador de Impacto Orçamentário (Salvador - BA)
 
-Este documento descreve a **interface gráfica** do projeto de Big Data "Simulador de Impacto Orçamentário". Ela permite que um gestor ajuste um cenário hoteleiro (ocupação, diária, evento e mês) e veja a estimativa de **receita turística** e de **arrecadação de ISS** produzida pelo modelo do grupo.
+Este documento descreve a **interface gráfica** do projeto de Big Data "Simulador de Impacto Orçamentário". Ela permite que um gestor ajuste um cenário hoteleiro (ocupação, diária, evento e mês) e veja a estimativa de **receita turística** e de **arrecadação de ISS** produzida pelo modelo.
 
 A interface roda **dentro do Google Colab**, no mesmo notebook do backend, sem servidor externo.
 
