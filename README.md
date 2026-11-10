@@ -35,8 +35,10 @@ A referência teve erro menor nos dois casos. O painel serve para explorar cená
 
 ## Equipe
 
-- [altardefey](https://github.com/altardefey)
-- [Caroline-SC](https://github.com/Caroline-SC)
-- [LariDev0](https://github.com/LariDev0)
-- [Skytale97](https://github.com/Skytale97)
-- [Recif3](https://github.com/Recif3)
+| Nome | GitHub |
+| --- | --- |
+| Breno Santos | [Recif3](https://github.com/Recif3) |
+| Caroline Soares | [Caroline-SC](https://github.com/Caroline-SC) |
+| Giovanna Almeida | [altardefey](https://github.com/altardefey) |
+| Larissa Oliveira | [LariDev0](https://github.com/LariDev0) |
+| Rebeca Pena | [Skytale97](https://github.com/Skytale97) |
